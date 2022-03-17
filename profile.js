@@ -1,37 +1,41 @@
 export const skills = [
   {
     skill: "Javascript",
-    percentage: 100,
+    percentage: 70,
   },
   {
-    skill: "Golang",
+    skill: "Java",
     percentage: 80,
   },
   {
     skill: "Nodejs",
-    percentage: 90,
+    percentage: 50,
   },
   {
-    skill: "Blockchain",
-    percentage: 40,
+    skill: "Blockchain, web3",
+    percentage: 60,
   },
   {
-    skill: "Physics",
+    skill: "Managing Director",
     percentage: 70,
   },
   {
     skill: "Economics",
-    percentage: 70,
+    percentage: 40,
   },
   {
     skill: "Machine Learning",
-    percentage: 70,
+    percentage: 80,
+  },
+  {
+    skill: "dataBase",
+    percentage: 60,
   },
 ];
 
 export const experiences = [
   {
-    title: "Software developer at Microsoft",
+    title: "Software developer at IBM",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
     from: 2000,
